@@ -1,3 +1,4 @@
 module.exports = {
-  reactStrictMode: true,
-}
+  /* config options here */
+  reactStrictMode: true
+};
